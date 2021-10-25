@@ -1,0 +1,3 @@
+useDynLib(dispersion, .registration=TRUE)
+
+export(vardispersion)
