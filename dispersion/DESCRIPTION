@@ -1,0 +1,9 @@
+Package: dispersion
+Type: Package
+Title: Convenience for VDG, DVDG and FDS
+Version: 1.1
+Date: 2021-10-20
+Author: Cesar Buchile Abud de Oliveira and Luzia Aparecida Trinca.
+Maintainer: Cesar Buchile Abud de Oliveira <cesar.abud.b@gmail.com>
+Description: Finds maximum, minimum and average (spherical region) variances of predictions for unblocked, blocked and split plot experiments for constructing VDG, DVDG, FDS and DFDS useful for comparing response surface designs.
+License: GPL (>= 2)
